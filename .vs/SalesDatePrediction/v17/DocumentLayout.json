@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCD49BD-0C7F-48B3-97F4-CFB64863076E}|Elementos de la soluci\u00F3n{FFCD49BD-0C7F-48B3-97F4-CFB64863076E}|C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{FFCD49BD-0C7F-48B3-97F4-CFB64863076E}|Elementos de la soluci\u00F3n{FFCD49BD-0C7F-48B3-97F4-CFB64863076E}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139ED01F-DC2F-4F6A-8938-289EC3DF06ED}|WebApi\\WebApi.csproj|c:\\users\\jhon\\documents\\projects\\pruebas-tecnicas\\salesdateprediction\\salesdateprediction-webapi\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{139ED01F-DC2F-4F6A-8938-289EC3DF06ED}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139ED01F-DC2F-4F6A-8938-289EC3DF06ED}|WebApi\\WebApi.csproj|c:\\users\\jhon\\documents\\projects\\pruebas-tecnicas\\salesdateprediction\\salesdateprediction-webapi\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{139ED01F-DC2F-4F6A-8938-289EC3DF06ED}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1D0C38-2F92-4158-A680-8C97C55D8BE3}|Data\\Data.csproj|c:\\users\\jhon\\documents\\projects\\pruebas-tecnicas\\salesdateprediction\\salesdateprediction-webapi\\data\\implements\\orderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1D0C38-2F92-4158-A680-8C97C55D8BE3}|Data\\Data.csproj|solutionrelative:data\\implements\\orderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785DD10C-43DD-4118-89E1-66011AF836F9}|Business\\Business.csproj|c:\\users\\jhon\\documents\\projects\\pruebas-tecnicas\\salesdateprediction\\salesdateprediction-webapi\\business\\implements\\orderbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785DD10C-43DD-4118-89E1-66011AF836F9}|Business\\Business.csproj|solutionrelative:business\\implements\\orderbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139ED01F-DC2F-4F6A-8938-289EC3DF06ED}|WebApi\\WebApi.csproj|c:\\users\\jhon\\documents\\projects\\pruebas-tecnicas\\salesdateprediction\\salesdateprediction-webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{139ED01F-DC2F-4F6A-8938-289EC3DF06ED}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EAB5B7-353F-46EE-9709-D99B2642D1F6}|Entity\\Entity.csproj|c:\\users\\jhon\\documents\\projects\\pruebas-tecnicas\\salesdateprediction\\salesdateprediction-webapi\\entity\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EAB5B7-353F-46EE-9709-D99B2642D1F6}|Entity\\Entity.csproj|solutionrelative:entity\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EAB5B7-353F-46EE-9709-D99B2642D1F6}|Entity\\Entity.csproj|c:\\users\\jhon\\documents\\projects\\pruebas-tecnicas\\salesdateprediction\\salesdateprediction-webapi\\entity\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EAB5B7-353F-46EE-9709-D99B2642D1F6}|Entity\\Entity.csproj|solutionrelative:entity\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA60F8-D436-4D38-ABF2-634652A21D66}|Utilities\\Utilities.csproj|c:\\users\\jhon\\documents\\projects\\pruebas-tecnicas\\salesdateprediction\\salesdateprediction-webapi\\utilities\\implements\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCA60F8-D436-4D38-ABF2-634652A21D66}|Utilities\\Utilities.csproj|solutionrelative:utilities\\implements\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T20:38:13.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApi.http",
+              "DocumentMoniker": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\WebApi\\WebApi.http",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.http",
+              "ToolTip": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\WebApi\\WebApi.http",
+              "RelativeToolTip": "WebApi\\WebApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-11T20:37:40.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-11T20:20:10.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T19:45:28.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\Entity\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\Entity\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "Entity\\Model\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:06:56.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\Entity\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\Entity\\Model\\Order.cs",
+              "RelativeToolTip": "Entity\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:02:57.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\Utilities\\Implements\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Utilities\\Implements\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\Utilities\\Implements\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Utilities\\Implements\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:04:03.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderData.cs",
+              "DocumentMoniker": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\Data\\Implements\\OrderData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\OrderData.cs",
+              "ToolTip": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\Data\\Implements\\OrderData.cs",
+              "RelativeToolTip": "Data\\Implements\\OrderData.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAtwF0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:02:06.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\Business\\Implements\\OrderBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implements\\OrderBusiness.cs",
+              "ToolTip": "C:\\Users\\Jhon\\Documents\\Projects\\Pruebas-tecnicas\\SalesDatePrediction\\SalesDatePrediction-WebAPI\\Business\\Implements\\OrderBusiness.cs",
+              "RelativeToolTip": "Business\\Implements\\OrderBusiness.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAtwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:59:35.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

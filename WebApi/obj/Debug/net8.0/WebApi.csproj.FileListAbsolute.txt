@@ -1,0 +1,320 @@
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Business.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Data.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Entity.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Utilities.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Business.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Entity.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Data.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\bin\Debug\net8.0\Utilities.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Business.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Data.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Entity.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Utilities.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Business.pdb
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Entity.pdb
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Data.pdb
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\bin\Debug\net8.0\Utilities.pdb
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Business.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Data.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Entity.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Utilities.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Business.pdb
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Entity.pdb
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Data.pdb
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\bin\Debug\net8.0\Utilities.pdb
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Business.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Data.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Entity.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Utilities.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Business.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Entity.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Data.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\bin\Debug\net8.0\Utilities.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\WebApi\obj\Debug\net8.0\ref\WebApi.dll

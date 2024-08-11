@@ -1,0 +1,76 @@
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\bin\Debug\net8.0\Business.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\bin\Debug\net8.0\Data.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\obj\Debug\net8.0\Business.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\bin\Debug\net8.0\Business.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\bin\Debug\net8.0\Data.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\obj\Debug\net8.0\Business.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\STEVIN\Downloads\SalesDatePrediction\SalesDatePrediction\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\bin\Debug\net8.0\Business.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\bin\Debug\net8.0\Data.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\obj\Debug\net8.0\Business.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\josep\Documentos\Visual Studio 2022\Projects\SalesDatePrediction\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\bin\Debug\net8.0\Business.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\bin\Debug\net8.0\Data.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\obj\Debug\net8.0\Business.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\Jhon\Documents\Projects\Pruebas-tecnicas\SalesDatePrediction\SalesDatePrediction-WebAPI\Business\obj\Debug\net8.0\ref\Business.dll
